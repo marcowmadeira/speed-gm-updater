@@ -1,0 +1,16 @@
+{
+  "name": "speed-gm-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "start app.js"
+  },
+  "author": "marcowmadeira <mail@marcowmadeira.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "gamedig": "^0.2.24",
+    "request": "^2.69.0"
+  }
+}
